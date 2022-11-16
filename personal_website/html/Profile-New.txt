@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head><span style="color:blue;"><center> SAI SUVARCHALA's Profile</center></span>
+  </head>
+  <body>
+<center>
+    <div style="background-color:DodgerBlue;">
+      <img src=" https://www.shareicon.net/data/512x512/2016/09/15/829453_user_512x512.png"/>
+      <h1>Sai Suvarchala Kavali</h1>
+     <p> Coimbatore , Tamil Nadu</p>
+      <p>
+         saisuvarchalak@gmail.com
+      </p>
+      <a href=" https://www.linkedin.com/in/sai-suvarchala-kavali-5b01b3228">
+        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/learn-technologies-img.png"/>
+      </a>
+    <h2><span style="color:blue;"> Career-Concentration</span></h2>
+   <p> Cyber Security/Technology
+ <h2><span style="color:blue;"> Education</span></h2>
+   <ul>
+   <li> Pursuing Btech-Cse-CyberSecurity at Amritha University, Coimbatore , Tamil Nadu.
+   <li>Intermediate , Mpc(Specialization)  at Pratibha Junior College , Rajahmundry, Andhra pradesh</li>
+  <li> Board ofSecondary Education at Keshava Reddy English Medium school, Rajahmundry, Andhra Pradesh</li>
+</ul>
+<h2><span style="color:blue;"> Hobbies</span></h2>
+<ul style="circle">
+<li> Surfing Internet for Learning New Technologies</li>
+<li> Since my childhood days, I grasped the art of dancing and performed in various shows. </li>
+<li> Cooking is my Versatile Hobby</li>
+</ul>
+<h2><span style="color:Blue;"> Achievements</span></h2>
+<ol style="lower-roman">
+<li> Received Vivekanadha Award for best classical Dance</li>
+<li> Got 1st Prize for Bhagavadh Gita Chanting</li>
+<li> Received Best Speaker Award  in Scool </li>
+</ol>
+<h1><span style="color:blue;"> Goals</span></h2>
+ <h3>To become a cyber security Analyst  inorder  to provide a risk-free and secure environment in which data, networks, and devices can be protected from cyberattacks.</h3>
+</div>
+</center>
+  </body>
+</html>

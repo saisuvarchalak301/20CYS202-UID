@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Short Description About Myself</title>
+<body>
+
+<b><h1 align="center";style="color:AliceBlue;">Short Description About Myself</h1></b>
+<p>
+<h2>My Intrests</h2>
+<ul>
+<li>Listening to various preachings by various spiritual practitioners</li>
+<li>Reading etihasas and puranas</li>
+<li>Intrested in knowing about spirituality</li>
+<li>I Love travelling</li>
+<li>I love spending time with kids and playing with children>
+<li>I love Spending time with my family</li>
+</p>
+<p>
+<b><h3>My Family</h3>
+<em>My support,My Strength and My Family is my first priority and it is everything to me.There are 4 members in our family,My Father who is my support system and everything to me .My Mother without whom i couldnt be here today and My Sister who always stays with me and for me.And i give value to my family alot even my cousins and relatives.I mingle easily with everyone and i love family gatherings alot.We 4 spend so much time with each other and share and get to know about lots os things.<br>
+My Father is my biggest support system.He always supports me and gives me strength what ever the situation is what ever the place and time be .More than parents my parents be like a best friends with me.Their support matters alot to me.Both of them had a huge part in my life.I am really thankful to god for placing me in such a nice and beautiful family.We have health relation ships between eachother but we even  have misunderstandings which will be sorting out easily.My Biggest Inspiration is my family.They never force me to do the things.<br>
+In one word My Family Is Everything To Me<br>
+<!-- Describing My Views -->
+</p>
+<a href="https://www.sathyasai.org/"><i>SRI SATYA SAI BABA</i></a><br>
+Our family are devotees of Sri Satya Sai Baba. He is also called as Swamy.My favourite place to vist every year is puttaparthy where swamy used to stay.<br>
+I intrestingly listen the preachings of sri Chaganti Koteswar Rao Garu who tells everything about shastras and purans in telugu.<br>
+<a href="https://en.wikipedia.org/wiki/Chaganti_Koteswara_Rao"><i>SRI CHAGANTI KOTESWAR RAO GARU</i></a><br>
+I also listen various speaches and teachings of many spiritual leaders and im very intrested to write books.<br>
+I like to write diaries and letters alot.<br>
+<blockquote cite="https://www.srisathyasai.org/pages/sai-his-messages-quotes.html">
+</blockquote>
+<pre style="color:blue;">
+Believe in 'KARMA'
+Know What holds you back and what moves you forward
+</pre>
+</body>
+</head>
+</html>
+
+
+
