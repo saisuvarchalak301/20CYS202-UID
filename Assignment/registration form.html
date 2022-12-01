@@ -10,6 +10,58 @@
 
 
 <body>
+  <script>
+    const submitForm = () => {
+        document.querySelector(".registration").style.display = "none";
+        document.querySelector(".form").style.display = "block";
+    };
+
+    function validate() {
+
+        var i = 0;
+        if (document.myform.user_name.value == "") {
+            document.getElementById("name-err").innerHTML = "Please Enter your name";
+            i++;
+        }
+        else {
+            document.getElementById("name-err").innerHTML = "";
+        }
+        if (document.myform.user_email.value == "") {
+            document.getElementById("mail-err").innerHTML = "Please Enter your Email";
+            i++;
+        }
+        else {
+            document.getElementById("mail-err").innerHTML = "";
+        }
+        if (document.myform.user_tel.value == "") {
+            document.getElementById("phone-err").innerHTML = "Please Enter your Phone Number";
+            i++;
+        }
+        else {
+            document.getElementById("phone-err").innerHTML = "";
+        }
+        if (document.myform.user_name.value == "") {
+            document.getElementById("add-err").innerHTML = "Please enter your address";
+            i++;
+        }
+        else {
+            document.getElementById("add-err").innerHTML = "";
+        }
+        if (document.myform.filling.value == "") {
+            document.getElementById("pay-err").innerHTML = "Choose your option";
+            i++;
+        }
+        else {
+            document.getElementById("pay-err").innerHTML = "";
+        }
+        if (document.myform.filling.value == "") {
+            document.getElementById("pay-err").innerHTML = "Choose your option";
+            i++;
+        }
+        else {
+            document.getElementById("pay-err").innerHTML = "";
+        }
+</script>
 <p> First Name: <input type="text"
                             size="30" name="Name" /></p>
  
