@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Anokha Registration Form -21030</title>
+<div style="background-color:MintCream;">
+<link rel="icon" type="logo.jpg" href="C:\Users\dell\Downloads/logo.jpg/favicon.ico">
+</head>
+<style>
+	body {
+		  background-image: url('party.jpeg');
+		  background-repeat: no repeat;
+		  background-size: 85%;
+	}
+	</style>
+	
+		
+		
+		<body style="font-size: 90% ;">
+
+	<body>
+ <img src=" E:\CYS SEM 3\20CYS202-User Interface Design\anokha\pictures\logo.jpg"  alt="image" style="width:200px;height:100px;">
+<h1 align="center";style="color:blue;">Anokha Registration Form 2023</h1>
+
+
+
+<div style="text-align: center;">
+		<img width="550" src="E:\CYS SEM 3\20CYS202-User Interface Design\anokha\pictures\anokha.jpg" alt="image" style="width:250px;height:150px;">
+		</div>
+<form action="E:\CYS SEM 3\20CYS202-User Interface Design\anokha\successful.html">
+
+<p> <b>First Name: <input type="text"
+                            size="30" name="Name" id="name" required></b></p>
+                            
+            <br /> <required>
+             
+<p><b>Last Name: <input type="text"
+                            size="30" name="Last Name" required /></b>
+        </p>
+ 
+            <br />
+             
+<p><b>Age: <input type="text"
+                            size="2" name="Age" required /></b></p>
+ 
+            <br />
+<p>College Name: <input type="text"
+                              size="30" name="College Name" required></b></p>
+<label for="Date of Birth"><b>Date of Birth:</label>
+<input type="date" id="Date of Birth" name="Date of birth" required></b><br>
+<label for="gender" class="p-2 h2"><b>Gender:</label><br /></b>
+            <input type="radio" id="Male" value="Male" name="gen" class="ml-5">
+            <label for="Male"> Male</label><br />     
+            <input type="radio" id="Female" value="Female" name="gen" class="ml-5 ">
+            <label for="Female" class="ml-2"> Female</label><br />
+            <input type="radio" id="not" value="Others" name="gen" class="ml-5">
+            <label for="not"> Not Prefer to say</label><br />
+<p><b>Email Address: <input type="text"
+                        size="65" name="mail Address" required /></b></p>
+ 
+            <br />
+             
+<p><b>Contact Number: <input type="text"
+                        size="12" name="Contact Number" required /></b></p>
+ 
+            <br />
+<p><b>Address: <input type="text"
+                            size="80" name="Address" required /></b>
+        </p>
+ 
+            <br />
+ 
+             
+<p><b>
+                SELECT YOUR COURSE</b>
+                <select type="text" value="" name="Subject">
+                    <option>BTECH</option>
+                    <option>MTECH</option>
+                    <option>MBA</option>
+                    <option>INTEGRATED</option>
+                    <option>MSc</option>
+                </select>
+            </p>
+ 
+            <br />
+            <br />
+           
+
+             
+
+<p>Click on the <b>"Choose File"</b> button to upload your respective college id card:</p>
+<br>
+
+  <input type="file" id="myFile" name="filename" required>
+  <br>
+<p>
+ <b> Sports</b>
+  <select type="text" value="" name="sports">
+          <option>Cricket</option>
+		  <option>Badminton</option>
+		  <option>Football</option>
+		  <option>Basketball</option>
+		  <option>Throwball</option>
+		  <option>Tennis</option>
+
+    </select>
+	<br>
+
+
+ 
+
+<p style="color:black;">
+<b>Notify me about the events</b> <label class="switch">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
+</p>
+<p><b>
+                <input type="submit"
+                    value="Submit" name="Submit" />
+                <input type="Reset"
+                    value="Reset" name="Reset" /></b>
+            </p>
+			<center><input style="margin-top: 60px;" class="button" type="submit" onclick="" value="Register" ></center>
+
+<button type="submit"><a href="index.html">Go Back</a></button>
+ 
+        </form>
+    </body>
+<script>
+    const submitForm = () => {
+        document.querySelector(".registration").style.display = "none";
+        document.querySelector(".form").style.display = "block";
+    };
+
+    function validate() {
+
+        var i = 0;
+        if (document.myform.user_name.value == "") {
+            document.getElementById("name-err").innerHTML = "Please Enter your name";
+            i++;
+        }
+        else {
+            document.getElementById("name-err").innerHTML = "";
+        }
+       function ValidateEmail() {
+    var user = document.getElementById("e").value;
+			var user2 = document.getElementById("e");
+			var re = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+			if (re.test(user)) {
+				alert("done");
+				return true;
+			}
+			else {
+				user2.style.border = "red solid 3px";
+				return false;
+			}
+    }
+}
+       function validatePhoneno() {
+    let phone = document.getElementById("phone").value;
+      if(!(phone.length==10))
+       {
+          window.alert("Enter valid phoneno");
+           document.getElementById("phone").focus()
+        }
+                                   }
+
+       
+        if (document.myform.user_name.value == "") {
+            document.getElementById("add-err").innerHTML = "Please enter your address";
+            i++;
+        }
+        else {
+            document.getElementById("add-err").innerHTML = "";
+        }
+        if (document.myform.filling.value == "") {
+            document.getElementById("pay-err").innerHTML = "Choose your option";
+            i++;
+        }
+        else {
+            document.getElementById("pay-err").innerHTML = "";
+        }
+        if (document.myform.filling.value == "") {
+            document.getElementById("pay-err").innerHTML = "Choose your option";
+            i++;
+        }
+        else {
+            document.getElementById("pay-err").innerHTML = "";
+        }
+</script>
+</html>
